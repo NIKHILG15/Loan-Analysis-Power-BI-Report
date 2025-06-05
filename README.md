@@ -2,7 +2,7 @@
 
 ## 📊 Overview
 
-Welcome to the **Bank Loan Financial Insights Dashboard**, a powerful, enterprise-grade analytics solution purpose-built for banks, lending institutions, and financial partners. This Power BI report offers a **360° view** into loan application trends, funding activity, repayment behavior, and credit risk evaluation. With dynamic KPIs, MoM performance trends, and region-specific insights, this tool empowers banks to make **data-driven lending decisions** and minimize default risk.
+Welcome to the **Bank Loan Financial Insights Dashboard**, a powerful, enterprise-grade analytics solution built for banks, lending institutions, and financial partners. This Power BI report offers a **360° view** into loan application trends, funding activity, repayment behavior, and credit risk evaluation. With dynamic KPIs, Month-On-Month performance trends, and region-specific insights, this tool empowers banks to make **data-driven lending decisions** and minimize default risk.
 
 ---
 
@@ -42,13 +42,13 @@ Welcome to the **Bank Loan Financial Insights Dashboard**, a powerful, enterpris
 ## 📷 Dashboard Snapshots
 
 ### 🔹 Summary Page
-![Loan Summary Dashboard](https://raw.githubusercontent.com/NIKHILG15/Bank-Loan-Financial-Report/main/screenshots/Loan_report_summarypg_screenshot.jpg)
+![Loan Summary Dashboard](https://github.com/NIKHILG15/Loan-Analysis-Power-BI-Report/blob/master/Loan_report_summarypg_screenshot.jpg?raw=true)
 
 ### 🔹 Overview Page
-![Loan Overview Dashboard](https://raw.githubusercontent.com/NIKHILG15/Bank-Loan-Financial-Report/main/screenshots/Loan_report_overviewpg_screenshot.jpg)
+![Loan Overview Dashboard](https://github.com/NIKHILG15/Loan-Analysis-Power-BI-Report/blob/master/Loan_report_overviewpg_screenshot.jpg?raw=true)
 
 ### 🔹 Details Page
-![Loan Details Dashboard](https://raw.githubusercontent.com/NIKHILG15/Bank-Loan-Financial-Report/main/screenshots/Loan_report_detailspg_screenshot.jpg)
+![Loan Details Dashboard](https://github.com/NIKHILG15/Loan-Analysis-Power-BI-Report/blob/master/Loan_report_detailspg_screenshot.jpg?raw=true)
 
 ---
 
@@ -123,8 +123,7 @@ Whether you're an underwriter, analyst, or financial executive, this tool is des
 ## 📬 Contact
 
 Developed by **Nikhil Prashant Garse**  
-📧 [Email](mailto:nikhilprashantgarse@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/nikhil-garse)  
+📧 [Email](mailto:nikhilgarse@outlook.com)  
 📍 Tennessee, USA
 
 ---
@@ -133,10 +132,10 @@ Developed by **Nikhil Prashant Garse**
 
 This project is shared for **educational and demonstration** purposes. For enterprise licensing and implementation consultation, feel free to reach out.
 
+Licensed under the [Apache 2.0 License](./LICENSE)
+
 ---
 
 ## ⭐ Star this Repository
 
 If you find this project insightful, don’t forget to **star** ⭐ the repository and share it with professionals in the banking and finance industry.
-
----
